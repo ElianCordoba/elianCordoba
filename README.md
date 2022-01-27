@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
-[<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>]
+[<video width="400" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML video.
+</video>]
