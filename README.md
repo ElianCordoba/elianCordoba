@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ElianCordoba/elianCordoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
-
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-
-[![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)]
+![Alt Text](https://media2.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
