@@ -1,3 +1,3 @@
 ```math
-\ce{$\unicode[height: 1000000000000px; width: 1000000000000px;]{x0000}$}
+\ce{$\unicode[height: 10000000px; width: 10000000px;]{x0000}$}
 
