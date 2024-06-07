@@ -1,3 +1,3 @@
 ```math
-\ce{$\unicode[goombafont; height: 1000px; width: 4000px; background-color: #39d353; position: absolute; right: 0; content: url(https://avatars.githubusercontent.com/u/34920585?v=4);]{x0000}$}
+\ce{$\unicode[goombafont; position: absolute; z-index: 1; content: url(https://avatars.githubusercontent.com/u/34920585?v=4); right: 0; top: 314px; left: 21px; height: 86px; width: 686px;]{x0000}$}
 
